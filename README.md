@@ -8,13 +8,13 @@ As my first data science project in financial risk, this repository establishes 
 ## 🛠️ Tech Stack & Key Concepts
 1. **Language:** Python (Google Colab)
 2. **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-* **Algorithm:** Logistic Regression (chosen for its high interpretability in banking)
-3. **Feature Engineering:** Calculated the **Debt-to-Income (DTI)** ratio.
-4. **Class Imbalance:** Handled using balanced class weights.
+3. **Algorithm:** Logistic Regression (chosen for its high interpretability in banking)
+4. **Feature Engineering:** Calculated the **Debt-to-Income (DTI)** ratio.
+5. **Class Imbalance:** Handled using balanced class weights.
 
 ## 📊 Evaluation Metrics
 The model's performance is evaluated using:
- **ROC-AUC Score:** 
+ **ROC-AUC Score** 
 
 ## 🚀 Future Enhancements
 To evolve this project further, I plan to:
